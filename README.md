@@ -1,4 +1,4 @@
-#Code OCR — Multi-File Code Extraction Tool
+# Code OCR — Multi-File Code Extraction Tool
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [Live Demo](https://ratnadeepbose.github.io/code-ocr/) | [GitHub Repo](https://github.com/RatnadeepBose/code-ocr)
